@@ -1,0 +1,16 @@
+# 4-Bit RISC CPU Datapath
+- Họ tên: Bui Nam Long MSSV: HE191326
+- Tool: Vivado 2026.1, board/chip: Kintex-7
+- Top module: cpu_top.v
+- Testbench: sim/tb_cpu.v
+- How to work: Vivado → Tools → Run Tcl Script → create_project.tcl, Run Simulation
+- ALU:	Performs arithmetic and logic operations (add, subtract, AND, OR, XOR, shift) and generates flags (carry, overflow, zero).
+- Register file / Accumulator:	4-bit registers that hold operands and results.
+- Program Counter (PC):	Holds the current instruction address; increments by 1 each instruction, or loads a new address on a jump.
+- Instruction Memory (ROM):	Stores the program and returns the instruction at the address given by the PC.
+- Instruction Register (IR):	Holds the instruction being executed and splits it into opcode and operands.
+- Control Unit:	Decodes the opcode and generates control signals (ALU operation select, register write enable, MUX selects, etc.). Can be an FSM or combinational logic.
+- Data Memory (RAM):	Stores data; accessed by load/store instructions.
+- MUX:	Selects the data source (register, constant, RAM) feeding the ALU or registers.
+- Flag register:	Stores the ALU flags (Z, C, V) for use by branch instructions.
+- Clock / Reset:	Synchronizes the whole system and returns it to its initial state.
