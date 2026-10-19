@@ -1,0 +1,17 @@
+0.7
+2020.2
+Jun 16 2026
+11:10:11
+E:/App/AMD PR/4-bitCPU_Datapath/4-bitCPU_Datapath.sim/sim_1/behav/xsim/glbl.v,1773749341,verilog,,,,glbl,,,,,,,,
+E:/App/AMD PR/4-bitCPU_Datapath/4-bitCPU_Datapath.srcs/sim_1/imports/testbench/tb_cpu.v,1791343746,verilog,,,,tb_cpu,,,../../../../../../AMD/2026.1/Vivado/data/rsb/busdef,,,,,
+E:/App/AMD PR/4-bitCPU_Datapath/4-bitCPU_Datapath.srcs/sources_1/imports/rtl/alu.v,1791343746,verilog,,E:/App/AMD PR/4-bitCPU_Datapath/4-bitCPU_Datapath.srcs/sources_1/imports/rtl/control_unit.v,,adder_subtractor;alu;logic_unit;zero_detector,,,../../../../../../AMD/2026.1/Vivado/data/rsb/busdef,,,,,
+E:/App/AMD PR/4-bitCPU_Datapath/4-bitCPU_Datapath.srcs/sources_1/imports/rtl/control_unit.v,1791343746,verilog,,E:/App/AMD PR/4-bitCPU_Datapath/4-bitCPU_Datapath.srcs/sources_1/imports/rtl/cpu_top.v,,branch_unit;control_unit;instruction_decoder,,,../../../../../../AMD/2026.1/Vivado/data/rsb/busdef,,,,,
+E:/App/AMD PR/4-bitCPU_Datapath/4-bitCPU_Datapath.srcs/sources_1/imports/rtl/cpu_top.v,1791343746,verilog,,E:/App/AMD PR/4-bitCPU_Datapath/4-bitCPU_Datapath.srcs/sources_1/imports/rtl/data_memory.v,,cpu_top,,,../../../../../../AMD/2026.1/Vivado/data/rsb/busdef,,,,,
+E:/App/AMD PR/4-bitCPU_Datapath/4-bitCPU_Datapath.srcs/sources_1/imports/rtl/data_memory.v,1791343746,verilog,,E:/App/AMD PR/4-bitCPU_Datapath/4-bitCPU_Datapath.srcs/sources_1/imports/rtl/flag_register.v,,data_memory,,,../../../../../../AMD/2026.1/Vivado/data/rsb/busdef,,,,,
+E:/App/AMD PR/4-bitCPU_Datapath/4-bitCPU_Datapath.srcs/sources_1/imports/rtl/flag_register.v,1791343746,verilog,,E:/App/AMD PR/4-bitCPU_Datapath/4-bitCPU_Datapath.srcs/sources_1/imports/rtl/instruction_memory.v,,flag_register,,,../../../../../../AMD/2026.1/Vivado/data/rsb/busdef,,,,,
+E:/App/AMD PR/4-bitCPU_Datapath/4-bitCPU_Datapath.srcs/sources_1/imports/rtl/instruction_memory.v,1791343746,verilog,,E:/App/AMD PR/4-bitCPU_Datapath/4-bitCPU_Datapath.srcs/sources_1/imports/rtl/instruction_register.v,,instruction_memory,,,../../../../../../AMD/2026.1/Vivado/data/rsb/busdef,,,,,
+E:/App/AMD PR/4-bitCPU_Datapath/4-bitCPU_Datapath.srcs/sources_1/imports/rtl/instruction_register.v,1791343746,verilog,,E:/App/AMD PR/4-bitCPU_Datapath/4-bitCPU_Datapath.srcs/sources_1/imports/rtl/mux.v,,instruction_register,,,../../../../../../AMD/2026.1/Vivado/data/rsb/busdef,,,,,
+E:/App/AMD PR/4-bitCPU_Datapath/4-bitCPU_Datapath.srcs/sources_1/imports/rtl/mux.v,1791343746,verilog,,E:/App/AMD PR/4-bitCPU_Datapath/4-bitCPU_Datapath.srcs/sources_1/imports/rtl/pipeline_register.v,,mux2,,,../../../../../../AMD/2026.1/Vivado/data/rsb/busdef,,,,,
+E:/App/AMD PR/4-bitCPU_Datapath/4-bitCPU_Datapath.srcs/sources_1/imports/rtl/pipeline_register.v,1791343746,verilog,,E:/App/AMD PR/4-bitCPU_Datapath/4-bitCPU_Datapath.srcs/sources_1/imports/rtl/program_counter.v,,pipeline_register,,,../../../../../../AMD/2026.1/Vivado/data/rsb/busdef,,,,,
+E:/App/AMD PR/4-bitCPU_Datapath/4-bitCPU_Datapath.srcs/sources_1/imports/rtl/program_counter.v,1791343746,verilog,,E:/App/AMD PR/4-bitCPU_Datapath/4-bitCPU_Datapath.srcs/sources_1/imports/rtl/register_file.v,,program_counter,,,../../../../../../AMD/2026.1/Vivado/data/rsb/busdef,,,,,
+E:/App/AMD PR/4-bitCPU_Datapath/4-bitCPU_Datapath.srcs/sources_1/imports/rtl/register_file.v,1791343746,verilog,,E:/App/AMD PR/4-bitCPU_Datapath/4-bitCPU_Datapath.srcs/sim_1/imports/testbench/tb_cpu.v,,register_file,,,../../../../../../AMD/2026.1/Vivado/data/rsb/busdef,,,,,
